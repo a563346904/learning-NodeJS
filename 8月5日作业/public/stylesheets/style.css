@@ -1,0 +1,30 @@
+.wrap {
+  width: 393px;
+  height: 350px;
+  /*border: 1px solid black;*/
+  margin: 0 auto;
+  text-align: right;
+}
+input{
+  width: 380px;
+  height: 50px;
+  /*border: 1px solid black;*/
+  outline: none;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  background-color: #F8F8F8;
+}
+a{
+  color: #17B18C;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+#btn {
+  width: 394px;
+  background-color: #17B18C;
+  color: white;
+  letter-spacing: 10px;
+  margin-top: 20px;
+  font-size: 22px;
+}
